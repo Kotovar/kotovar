@@ -1,6 +1,10 @@
 # Hello, my name is Dmitry 👋
 
-I'm a beginner web developer learning HTML5, CSS3, JavaScript and other web technologies. I like to create interesting and beautiful websites and applications.
+I'm a beginner web developer learning HTML5, CSS3, JavaScript and other web technologies. I like to create interesting and beautiful websites and applications. I'm also learning Node.js, React and TypeScript to expand my capabilities in backend development.
+
+I started my journey in web development not long ago, but I am very motivated and goal-oriented. I want to become a front-end development senior and work on interesting and complex projects. I am ready to do any projects related to the front end, but I am especially attracted to commercial projects, such as landing pages that help promote a business or service.
+
+On my profile you can see some of my projects that I have done for practice or study. I will be glad to receive feedback or cooperation proposals from you. You can contact me by email
 
 ## My skills and tools🛠️
 
