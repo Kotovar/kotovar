@@ -79,5 +79,18 @@ On my profile you can see some of my projects that I have done for practice or s
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotovar&layout=compact&langs_count=8&theme=dark" alt="Top languages" />
 
 ## My projects 💻
+[simple-todo-list](https://github.com/Kotovar/simple-todo-list)
 
-[projects](https://github.com/Kotovar?tab=repositories)
+![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
+
+
+[weather forecast](https://github.com/Kotovar/weather_app)
+
+![22](https://github.com/Kotovar/kotovar/assets/77914431/be6bb7dd-6fb4-4daf-89e1-f8bc4adef649)
+
+[library](https://github.com/Kotovar/library)
+
+![33](https://github.com/Kotovar/kotovar/assets/77914431/d18341ac-d2c6-4be4-a318-c739b7c5af13)
+
+
+[others](https://github.com/Kotovar?tab=repositories)
