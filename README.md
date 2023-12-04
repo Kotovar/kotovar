@@ -77,11 +77,16 @@ On my profile you can see some of my projects that I have done for practice or s
 
 <img src="https://github-readme-stats.vercel.app/api?username=kotovar&show_icons=true&theme=dark" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotovar&layout=compact&langs_count=8&theme=dark" alt="Top languages" />
+<img src="https://www.codewars.com/users/Kotovar/badges/large?stroke=blue" alt="codewars" />
 
 ## My projects 💻
 [simple-todo-list](https://github.com/Kotovar/simple-todo-list)
 
 ![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
+
+[battleship](https://github.com/Kotovar/battleship_Odin)
+
+![fsdfsfs](https://github.com/Kotovar/kotovar/assets/77914431/96ba6c6d-65c5-4c8c-b412-98c09796cad9)
 
 
 [weather forecast](https://github.com/Kotovar/weather_app)
