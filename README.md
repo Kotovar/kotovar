@@ -86,7 +86,8 @@ On my profile you can see some of my projects that I have done for practice or s
 
 [battleship](https://github.com/Kotovar/battleship_Odin)
 
-![fsdfsfs](https://github.com/Kotovar/kotovar/assets/77914431/96ba6c6d-65c5-4c8c-b412-98c09796cad9)
+![1](https://github.com/Kotovar/kotovar/assets/77914431/93f9f89d-f62b-4ef9-8c2e-4a455cb9b349)
+
 
 
 [weather forecast](https://github.com/Kotovar/weather_app)
