@@ -8,7 +8,6 @@ On my profile you can see some of my projects that I have done for practice or s
 
 ## My skills and tools🛠️
 
-
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -16,7 +15,7 @@ On my profile you can see some of my projects that I have done for practice or s
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="HTML5"
       />
       <br /><strong>HTML5</strong>
     </td>
@@ -30,6 +29,15 @@ On my profile you can see some of my projects that I have done for practice or s
       <br /><strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img
+        src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg'
+        width="48"
+        height="48"
+        alt="SASS"
+      />
+      <br /><strong>SASS</strong>
+    </td>
+        <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -63,15 +71,21 @@ On my profile you can see some of my projects that I have done for practice or s
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Webpack"
       />
       <br /><strong>Webpack</strong>
     </td>
-
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
   </tr>
 </table>
-
-
 
 ## Stats📊
 
@@ -93,8 +107,6 @@ On my profile you can see some of my projects that I have done for practice or s
 
 ![1](https://github.com/Kotovar/kotovar/assets/77914431/93f9f89d-f62b-4ef9-8c2e-4a455cb9b349)
 
-
-
 [weather forecast](https://github.com/Kotovar/weather_app)
 
 ![22](https://github.com/Kotovar/kotovar/assets/77914431/be6bb7dd-6fb4-4daf-89e1-f8bc4adef649)
@@ -102,6 +114,5 @@ On my profile you can see some of my projects that I have done for practice or s
 [library](https://github.com/Kotovar/library)
 
 ![33](https://github.com/Kotovar/kotovar/assets/77914431/d18341ac-d2c6-4be4-a318-c739b7c5af13)
-
 
 [others](https://github.com/Kotovar?tab=repositories)
