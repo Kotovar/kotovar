@@ -80,6 +80,11 @@ On my profile you can see some of my projects that I have done for practice or s
 <img src="https://www.codewars.com/users/Kotovar/badges/large?stroke=blue" alt="codewars" />
 
 ## My projects 💻
+
+[Homepage](https://github.com/Kotovar/Homepage)
+
+![11](https://github.com/Kotovar/kotovar/assets/77914431/df8c4566-7e35-46ac-b4b8-61f653b77695)
+
 [simple-todo-list](https://github.com/Kotovar/simple-todo-list)
 
 ![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
