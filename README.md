@@ -97,7 +97,7 @@ On my profile you can see some of my projects that I have done for practice or s
 
 [Homepage](https://github.com/Kotovar/Homepage)
 
-![1](https://github.com/Kotovar/kotovar/assets/77914431/8bcc1510-03ff-4fac-9ff7-c0eed1c39eb0)
+![2](https://github.com/Kotovar/kotovar/assets/77914431/6bc3888d-3605-4858-83ad-b9887b30f692)
 
 [simple-todo-list](https://github.com/Kotovar/simple-todo-list)
 
