@@ -99,6 +99,10 @@ On my profile you can see some of my projects that I have done for practice or s
 
 ![2](https://github.com/Kotovar/kotovar/assets/77914431/6bc3888d-3605-4858-83ad-b9887b30f692)
 
+[cv-application](https://github.com/Kotovar/cv-application)
+
+![1 — копия](https://github.com/Kotovar/kotovar/assets/77914431/11ecad65-b2c1-47ef-9f96-1659e56b35b1)
+
 [simple-todo-list](https://github.com/Kotovar/simple-todo-list)
 
 ![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
