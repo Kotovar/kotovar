@@ -46,6 +46,15 @@ On my profile you can see some of my projects that I have done for practice or s
       />
       <br /><strong>JavaScript</strong>
     </td>
+            <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -62,9 +71,9 @@ On my profile you can see some of my projects that I have done for practice or s
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="npm"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>npm</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -74,6 +83,15 @@ On my profile you can see some of my projects that I have done for practice or s
         alt="Webpack"
       />
       <br /><strong>Webpack</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
