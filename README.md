@@ -6,6 +6,8 @@ I started my journey in web development not long ago, but I am very motivated an
 
 On my profile you can see some of my projects that I have done for practice or study. I will be glad to receive feedback or cooperation proposals from you. You can contact me by email
 
+My portfolio web page - https://kotovar.github.io/Homepage/
+
 ## My skills and tools🛠️
 
 <table>
