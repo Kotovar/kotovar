@@ -131,16 +131,4 @@ My portfolio web page - https://kotovar.github.io/Homepage/
 
 ![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
 
-[battleship](https://github.com/Kotovar/battleship_Odin)
-
-![1](https://github.com/Kotovar/kotovar/assets/77914431/93f9f89d-f62b-4ef9-8c2e-4a455cb9b349)
-
-[weather forecast](https://github.com/Kotovar/weather_app)
-
-![22](https://github.com/Kotovar/kotovar/assets/77914431/be6bb7dd-6fb4-4daf-89e1-f8bc4adef649)
-
-[library](https://github.com/Kotovar/library)
-
-![33](https://github.com/Kotovar/kotovar/assets/77914431/d18341ac-d2c6-4be4-a318-c739b7c5af13)
-
 [others](https://github.com/Kotovar?tab=repositories)
