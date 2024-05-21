@@ -30,16 +30,7 @@ My portfolio web page - https://kotovar.github.io/Homepage/
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg'
-        width="48"
-        height="48"
-        alt="SASS"
-      />
-      <br /><strong>SASS</strong>
-    </td>
-        <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -48,7 +39,16 @@ My portfolio web page - https://kotovar.github.io/Homepage/
       />
       <br /><strong>JavaScript</strong>
     </td>
-            <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="Typescript"
+      />
+      <br /><strong>Typescript</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg"
         width="48"
@@ -56,6 +56,15 @@ My portfolio web page - https://kotovar.github.io/Homepage/
         alt="React"
       />
       <br /><strong>React</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Redux</strong>
     </td>
   </tr>
   <tr>
@@ -103,6 +112,15 @@ My portfolio web page - https://kotovar.github.io/Homepage/
         alt="Jest"
       />
       <br /><strong>Jest</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src='https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg'
+        width="48"
+        height="48"
+        alt="SASS"
+      />
+      <br /><strong>SASS</strong>
     </td>
   </tr>
 </table>
