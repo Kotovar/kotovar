@@ -137,6 +137,10 @@ My portfolio web page - https://kotovar.github.io/Homepage/
 
 ![2](https://github.com/Kotovar/kotovar/assets/77914431/6bc3888d-3605-4858-83ad-b9887b30f692)
 
+[book_library](https://github.com/Kotovar/book_library)
+
+![1](https://github.com/Kotovar/kotovar/assets/77914431/ce4b0395-5472-423e-9161-9fae6d4837a2)
+
 [cv-application](https://github.com/Kotovar/cv-application)
 
 ![1 — копия](https://github.com/Kotovar/kotovar/assets/77914431/11ecad65-b2c1-47ef-9f96-1659e56b35b1)
