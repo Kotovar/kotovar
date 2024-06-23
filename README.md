@@ -149,8 +149,4 @@ My portfolio web page - https://kotovar.github.io/Homepage/
 
 ![123](https://github.com/Kotovar/kotovar/assets/77914431/81aac6f7-c171-4754-b6d7-ed4e8892cec2)
 
-[simple-todo-list](https://github.com/Kotovar/simple-todo-list)
-
-![11](https://github.com/Kotovar/kotovar/assets/77914431/cb959263-a2f1-475f-87de-f52fa643d0e4)
-
 [others](https://github.com/Kotovar?tab=repositories)
